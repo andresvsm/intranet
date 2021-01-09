@@ -1,0 +1,47 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://demos.themeansar.com/newses/lite
+Data file = /home2/themeans/public_html/demos/newses/lite/wp-content/uploads/2020/06/newsup_lite.xml
+Widget file = /home2/themeans/public_html/demos/newses/lite/wp-content/uploads/2020/06/newsup-lite-widgets.wie
+Customizer file = /home2/themeans/public_html/demos/newses/lite/wp-content/uploads/2020/06/newsup-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Widget Area : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+Navigation Menu - No Title - Imported
+
+Front-page Content Section : 
+
+AR: Posts List - No Title - Imported
+AR: Featured Posts - No Title - Imported
+AR: Double Categories Posts - No Title - Imported
+AR: Latest News Post - No Title - Imported
+
+Front-page Sidebar Section : 
+
+Recent Posts - Recent - Imported
+Gallery - Gallery - Imported
+Tag Cloud - Tags - Imported
+Categories - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
